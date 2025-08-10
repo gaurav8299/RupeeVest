@@ -55,7 +55,7 @@ A comprehensive financial platform designed specifically for Indian investors, c
 
 3. **Set up environment variables**
    ```bash
-   cp .env.example .env
+   cp  .env
    ```
    
    Edit `.env` and add your API keys:
@@ -204,8 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: support@financeai.com
-- Twitter: @financeai
+- Email: gauravrajput3005@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -216,4 +215,4 @@ For support and questions:
 
 ---
 
-Made with ❤️ for Indian investors by the FinanceAI team
+Made with ❤️ for Indian investors by the Gaurav Rajput
