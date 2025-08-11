@@ -63,7 +63,7 @@ A comprehensive financial platform designed specifically for Indian investors, c
 
 3. **Set up environment variables**
    ```bash
-   cp .env.example .env
+   cp .env
    ```
    
    Edit `.env` and add your API keys:
